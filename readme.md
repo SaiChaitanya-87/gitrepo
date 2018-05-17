@@ -1,2 +1,2 @@
-editing to check merge 
-new editing
+test document 
+modified readme by beta1
